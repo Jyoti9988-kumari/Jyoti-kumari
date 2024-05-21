@@ -18,11 +18,11 @@ Engineering</strong>
 - 🏴󠁩󠁤󠁪󠁷󠁿 I'm <strong>Java</strong> developer 
 <br />
 <br />
-- 󠁩I'm <strong>FRONT END DEVELOPER
+📌 I'm <strong>FRONT END DEVELOPER
 </strong> developer
 <br />
 
-- 🌱 I'm currently learning everything
+🌱 I'm currently learning everything
 
 
 
@@ -38,10 +38,11 @@ Engineering</strong>
     
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-kr&layout=compact&theme=dark) <br/> <br/>
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraj-kr&count_private=true&theme=dark&hide=contribs,prs)
+![jyoti9988-kumari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti9988-kumari&theme=merko&show_icons=true&hide_border=true&layout=compact) <br/> <br/>
+![jyoti's Stats](https://github-readme-stats.vercel.app/api?username=jyoti9988-kumari&theme=merko&show_icons=true&hide_border=true&count_private=true) <br/> <br/>
+![jyoti9988-kumari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyoti9988-kumari&theme=merko&hide_border=true)
 
-   
+
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
    
 
